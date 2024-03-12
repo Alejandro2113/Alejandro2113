@@ -5,20 +5,28 @@ I'm passionate about technology and new tools that emerge day by day, I'm curren
 I have experience in a variety of web development technologies including:
 
 HTML, CSS, JavaScript
+
 📊 Data Analysis Experience.
 I am also interested in data analysis and have basic experience working with:
 
 Python / R
 mathlab / Excel
-Experience as Civil Engineer.
+
+## Experience as Civil Engineer.
+
 Project manager, Home builder, General earthworks, Structural evaluator, General surveying work, Project supervisor.
+
 Long term goals
 Professional Objective
-I am currently a civil engineer very passionate about data analysis and artificial intelligence, I have the goal of becoming a Data Scientist. I strongly believe in the power of data to drive strategic decision making, optimize processes and discover new opportunities, and I want to implement that in construction so I can take advantage of these new tools and implement them in something I am passionate about such as project management and construction.
+I am currently a civil engineer very passionate about data analysis and artificial intelligence, I have the goal of becoming a Data Scientist. I strongly believe 
+in the power of data to drive strategic decision making, optimize processes and discover new opportunities, and I want to implement that in construction so I can 
+take advantage of these new tools and implement them in something I am passionate about such as project management and construction.
 
-I am committed to continuously learning and improving my skills in areas such as machine learning, statistics, programming (Python, R) and data visualization tools (Tableau, Power BI).
+I am committed to continuously learning and improving my skills in areas such as machine learning, statistics, programming (Python, R) and data visualization 
+tools (Tableau, Power BI).
 
-My goal is to use these skills to uncover hidden patterns in the construction industry and new materials in the industry to predict trends and provide data-driven solutions that drive growth and efficiency in construction and any industry I work in.
+My goal is to use these skills to uncover hidden patterns in the construction industry and new materials in the industry to predict trends and provide data-driven 
+solutions that drive growth and efficiency in construction and any industry I work in.
 
 If you have any opportunities, advice or resources that can help me on my data science journey, feel free to contact me. thank you!!!.
 
