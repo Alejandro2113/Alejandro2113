@@ -16,17 +16,12 @@ mathlab / Excel
 
 Project manager, Home builder, General earthworks, Structural evaluator, General surveying work, Project supervisor.
 
-Long term goals
-Professional Objective
-I am currently a civil engineer very passionate about data analysis and artificial intelligence, I have the goal of becoming a Data Scientist. I strongly believe 
-in the power of data to drive strategic decision making, optimize processes and discover new opportunities, and I want to implement that in construction so I can 
-take advantage of these new tools and implement them in something I am passionate about such as project management and construction.
+I am currently a civil engineer very passionate about data analysis and artificial intelligence, I have the goal of becoming a Data Scientist. I strongly believe in the power of data to drive strategic decision making, optimize processes and discover new opportunities, and I want to implement that in construction so I can take advantage of these new tools and implement them in something I am passionate about such as project management and construction.
 
 I am committed to continuously learning and improving my skills in areas such as machine learning, statistics, programming (Python, R) and data visualization 
 tools (Tableau, Power BI).
 
-My goal is to use these skills to uncover hidden patterns in the construction industry and new materials in the industry to predict trends and provide data-driven 
-solutions that drive growth and efficiency in construction and any industry I work in.
+My goal is to use these skills to uncover hidden patterns in the construction industry and new materials in the industry to predict trends and provide data-driven solutions that drive growth and efficiency in construction and any industry I work in.
 
 If you have any opportunities, advice or resources that can help me on my data science journey, feel free to contact me. thank you!!!.
 
@@ -42,8 +37,7 @@ Translated with DeepL.com (free version)
 .es
 # Hola, soy Moisés Alejandro Gonzalez 👋
 
-Soy un apasionado de la tecnología y las nuevas herramientas que surgen día a día, actualmente estoy estudiando desarrollo web y también análisis de datos. Me encanta resolver problemas complejos 
-y convertir los datos en información significativa.
+Soy un apasionado de la tecnología y las nuevas herramientas que surgen día a día, actualmente estoy estudiando desarrollo web y también análisis de datos. Me encanta resolver problemas complejos y convertir los datos en información significativa.
 
 ## 🌐 Experiencia en Desarrollo Web
 
@@ -67,15 +61,12 @@ Trabajos de topografía en general, Supervisor de proyectos.
 
 # Objetivo Profesional
 
-Actualmente soy un ingeniero civil muy apasionado del análisis de datos y la inteligencia artificial, tengo el objetivo de convertirme en un Científico de Datos. Creo firmemente en el poder 
-de los datos para impulsar la toma de decisiones estratégicas, optimizar procesos y descubrir nuevas oportunidades, y deseo implementar eso en la construcción para poder aprovechar estas 
-nuevas herramientas e implementarlas en algo que me apasiona como lo es la dirección y construcción de proyectos.
+Actualmente soy un ingeniero civil muy apasionado del análisis de datos y la inteligencia artificial, tengo el objetivo de convertirme en un Científico de Datos. Creo firmemente en el poder de los datos para impulsar la toma de decisiones estratégicas, optimizar procesos y descubrir nuevas oportunidades, y deseo implementar eso en la construcción para poder aprovechar estas nuevas herramientas e implementarlas en algo que me apasiona como lo es la dirección y construcción de proyectos.
 
 Estoy comprometido con el aprendizaje continuo y la mejora de mis habilidades en áreas como el aprendizaje automático, la estadística, la programación (Python, R) y las herramientas de 
 visualización de datos (Tableau, Power BI).
 
-Mi meta es utilizar estas habilidades para descubrir patrones ocultos en el rubro de la construcción y los nuevos materiales de la industria para predecir tendencias y proporcionar 
-soluciones basadas en datos que impulsen el crecimiento y la eficiencia en la construcción y en cualquier industria en la que trabaje.
+Mi meta es utilizar estas habilidades para descubrir patrones ocultos en el rubro de la construcción y los nuevos materiales de la industria para predecir tendencias y proporcionar soluciones basadas en datos que impulsen el crecimiento y la eficiencia en la construcción y en cualquier industria en la que trabaje.
 
 Si tienes alguna oportunidad, consejo o recurso que pueda ayudarme en mi camino hacia la ciencia de datos, no dudes en contactarme. ¡Gracias!.
 
