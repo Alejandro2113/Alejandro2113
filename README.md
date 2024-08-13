@@ -1,29 +1,30 @@
 # Hi, I'm Moisés Alejandro Gonzalez 👋
-I'm passionate about technology and new tools that emerge day by day, I'm currently studying web development and also data analysis. I love solving complex problems and turning data into meaningful information.
+I'm passionate about technology and new tools that emerge day by day, I'm currently studying web development and data analysis. I love solving complex problems and turning data into meaningful information. I am a developer at Quality Solutions. My colleague and I form a team of two front-end developers with extensive experience creating animated single-page websites using technologies such as HTML5, CSS3, JavaScript, Next.js, and Tailwind CSS.
+
 
 🌐 Web Development Experience.
 I have experience in a variety of web development technologies including:
 
-HTML, CSS, JavaScript
+HTML, CSS, JavaScript, Next.js, and Tailwind CSS.
 
 📊 Data Analysis Experience.
 I am also interested in data analysis and have basic experience working with:
 
 Python / R
-mathlab / Excel
+Matlab / Excel
 
-## Experience as Civil Engineer.
+## Experience as a Civil Engineer.
 
 Project manager, Home builder, General earthworks, Structural evaluator, General surveying work, Project supervisor.
 
-I am currently a civil engineer very passionate about data analysis and artificial intelligence, I have the goal of becoming a Data Scientist. I strongly believe in the power of data to drive strategic decision making, optimize processes and discover new opportunities, and I want to implement that in construction so I can take advantage of these new tools and implement them in something I am passionate about such as project management and construction.
+I am currently a civil engineer very passionate about data analysis and artificial intelligence, I have the goal of becoming a Data Scientist. I strongly believe in the power of data to drive strategic decision making, optimize processes and discover new opportunities. I want to implement that in construction so I can take advantage of these new tools and implement them in something I am passionate about such as project management and construction.
 
 I am committed to continuously learning and improving my skills in areas such as machine learning, statistics, programming (Python, R) and data visualization 
 tools (Tableau, Power BI).
 
 My goal is to use these skills to uncover hidden patterns in the construction industry and new materials in the industry to predict trends and provide data-driven solutions that drive growth and efficiency in construction and any industry I work in.
 
-If you have any opportunities, advice or resources that can help me on my data science journey, feel free to contact me. thank you!!!.
+If you have any opportunities, advice, or resources that can help me on my data science journey, feel free to contact me. thank you!!!.
 
 📫 Contact me
 If you have any questions or just want to chat, feel free to contact me:
